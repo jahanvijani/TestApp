@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  AlineaApp
+
+  Created by Jahanvi Vyas on 26/11/2020.
+  
+*/
+
+// Navigation titles
+"HomeTitle" = "Home";
+"ExploreTitle" = "Explore";
+"TrendTitle" = "Trend";
+"UsersTitle" = "Users";
+"IdeaTitle" = "Idea";
+"HomeTitle" = "Home";
